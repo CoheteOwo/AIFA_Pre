@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AIFA_Pre.props" />
+</Project>
